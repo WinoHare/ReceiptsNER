@@ -1,0 +1,29 @@
+{% extends 'landing/base.html' %}
+{% load static %}
+
+
+{% block content %}
+  <form method="post" enctype="multipart/form-data" class="image-form">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" class="submit-button">Загрузить</button>
+  </form>
+
+  {% if img_obj %}
+    <img src="{{ img_obj.photo.url}}" alt="connect" style="max-height:500px" class="image">
+  {% endif %}
+  <div class="entities">
+    {% if receipt_date %}
+      <p class="entities_item"><span class="entity-name">Дата платежа:</span> {{receipt_date}}</p>
+    {% endif %}
+    {% if total_amount %}
+      <p class="entities_item"><span class="entity-name">Сумма платежа:</span> {{total_amount}}</p>
+    {% endif %}
+    {% if supplier_name %}
+      <p class="entities_item"><span class="entity-name">Компания поставщик:</span> {{supplier_name}}</p>
+    {% endif %}
+    {% if supplier_address %}
+      <p class="entities_item"><span class="entity-name">Адрес поставщика:</span> {{supplier_address}}</p>
+    {% endif %}
+  </div>
+{% endblock %}

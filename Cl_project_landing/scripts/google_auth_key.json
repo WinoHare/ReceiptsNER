@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "receiptsner",
+  "private_key_id": "60676bd1071fd24218181d5fe8d21d6ed5bb255f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQYq5sApPkgnGd\nXKNTFVzIuVQi4ZB2BoijFRgcaHVOMC57t8juwrpkxX7alH2wo+PCSmOAJi3ApLdl\npNOtdCSpKR+8XB53QkP9agxlSsL7n43H3pK8SmVT4H3em4TnZbp2DEE1fPIxTBo2\nRUkSE2rrIEQIbuZzpDmpMtkYsNhETZr1LeeAHmdtW7pFs9tXJarx5WZLjBCOPr0l\ncKjJNjv1eGboCVas6LNmgUpEBamU9QMBROZf6MsxmZLLE11NwnycehsRO+tirc76\nMGjlWIV+SCVcJItiVLYToeNlkqVBd0eSJWJPXJdA6LVIeYfyLquQZ2Ab7uDWiGyQ\n+yWOPU9NAgMBAAECggEATUtdMTkfjFIKPHlhJ280FEwR9kI+qFiyE/O+FsN0R4U9\nqKw5/r4CD2DmNcOAf6W61JVtJNqEfAFc+XnS/nKnKovTdrWgo1HUEEpmwKejfVvo\nZiubt/XMcflCFvEOshocuK7A/UsUNs7ophq7CNZlAUPdmFcyadCPhsASoMLv5R1M\nsaVQ1LfWnpgS1FCx3EMDUJsusyU9y39HHbWmyiOCQ7jO6kKKB9rAtNeSH13H6jPt\nr6C76XipI+JTuts2vH+e5TYkNfGl2IwvLezgPE0ChzH67YzkDmWTjttNtYbSMcBW\nPCZg3ug1UsTvI5t2R8V+9kCJ60GNNpy6dN3IphGUDQKBgQDqJ+rMxrsOpWKjpUhm\nqROJkXOfKeAoxew/LjUK8l+alyl3fkzLxbY9feM7RWGCYEyo4dg2O5PY8PSxcYl1\n7VmqVTZqCvsSPEEXe+CkRt8uJxMUGq5DWjz0cQDRvZYpXppkgN6cXxgtunrNsE4C\n/GC2t9WUucck33X91NmfqyFj4wKBgQDj01FAzd/fjae11NaDTCzc2uJR/aqW8t31\njou+Bj8FS51qqFQU7gi4UmjjNQZU2PnHjk1HWFFWlj8MfmCCq8Fs/gKFTxva0o4K\nPCTtCRPYLPubyVX/SlkB5uHvOKrMGx1Ayfl+9MCtMAIxmeQJHLrQUPoCGuWgLrKh\nb46T0kHHDwKBgCwPjtMxoglDfaglddY7gn2kbQlKK/AALlBFNZ31tZ+1Sgw+K908\nOuqfQZ7pk0uhK0usE69AzrVHwgORxbf3DaRLnI2fu1bXF7h/iunenChnGePykVAD\nLu0gRnMxJYxrTMoUpc7u5fHU4T7LKiLNsrUvKnVt79c0ZVN6NekhnorZAoGAFSVx\nHkW9qN9aGLuHqaoxY9KBPUEBS3+BcKBpghrMUK6DDvpOy56IeqtThvtN+iQlkws3\nSw78hb/uXDeCt74/duFg1ITSPg5bFsIcX0//YopSVFRswgRhnJaUlAK7f7Rok7Hr\nkYggNjMFkRsKmnnrMRjDC9z5QVP0Sp2zKy9R4asCgYBHsNIwHGTdcPjw3QpMbpLc\nA9DS5QNowv1J+yXSY9e+WQJ8FFdYYA/0xdEZ3auxI67tQGIUo7PkVFrZ1iMu58Ka\nqA9csTPlw27wn0Ih00OkUWG+0wex7vltI5jMrMd794/6UcU968+8IdFh7j54+w/Q\ngxcGdOHQNJhpiMQlyR0+fg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "receipts-ner-urfu@receiptsner.iam.gserviceaccount.com",
+  "client_id": "110108546129385528938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/receipts-ner-urfu%40receiptsner.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
